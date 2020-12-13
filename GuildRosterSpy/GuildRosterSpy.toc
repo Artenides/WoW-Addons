@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: GuildRosterSpy
+## Notes: A lightweight addon to export data about guild members.
+## Author: Csaba Halmagyi (Artenides-Arathor)
+## Version: 0.0.1
+## SavedVariables: CollectedData
+
+GuildRosterSpy.lua
