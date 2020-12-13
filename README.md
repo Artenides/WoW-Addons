@@ -22,9 +22,11 @@ A lightweight addon to export data about the members of a guild.
 
 5. Logout from the game (this will trigger the WoW client to dump the data into a file)
 
-6. Go to World of Warcraft\_retail_\WTF\Account\youraccount\SavedVariables\ and open the GuildRosterSpy.lua file with a text editor.
+6. Go to World of Warcraft\_retail_\WTF\Account\youraccount\SavedVariables\ and open the 
+GuildRosterSpy.lua file with a text editor.
 
-7. Copy everything between CollectedData = { and the closing } and paste this into a new file. The content of the new file will look something like:
+7. Copy everything between CollectedData = { and the closing } and paste this into a new 
+file. The content of the new file will look something like:
 
 "Artenides-Arathor,MAGE,60,Member,0", -- [1]
 	"Biomic-Arathor,DEATHKNIGHT,60,Officer Alt,107", -- [2]
