@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: QuickPromoter
+## Notes: QuickPromoter let's you search for guild members by name and promote/demote them.
+## Author: Csaba Halmagyi (Artenides-Arathor)
+## Version: 0.0.1
+
+QuickPromoter.lua
